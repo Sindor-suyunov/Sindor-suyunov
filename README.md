@@ -9,7 +9,6 @@ Interest in programming started in 2020 and I started to learn C++ programming l
 * 🌍  I'm based in Tashkent, Uzbekistan
 * 🖥️  See my portfolio at [Portfolio](http://sindor.uz)
 * ✉️  You can contact me at [sindorsuyunov92@gmail.com](mailto:sindorsuyunov92@gmail.com)
-* 🚀  I'm currently working at [UZINFOCOM](http://uzinfocom.uz/)
 * 🧠  I'm learning Laravel and Python for AI, ML, CyberSecurity
 * 🤝  I'm open to collaborating on Interesting and usefull projects
 * ⚡  I'm crazy
